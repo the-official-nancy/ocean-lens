@@ -1,6 +1,8 @@
-fastapi
-uvicorn
-tensorflow
-numpy
-xarray
-scikit-learn
+fastapi==0.110.0
+uvicorn==0.29.0
+tensorflow-cpu==2.15.0
+numpy==1.26.4
+xarray==2024.3.0
+scikit-learn==1.4.2
+pandas==2.2.2
+requests==2.31.0
